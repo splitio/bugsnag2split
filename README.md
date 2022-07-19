@@ -1,5 +1,7 @@
 # Bugsnag2Split
 
+ [More Documentation Here](https://davidbrookemartin.com/2022/07/19/bugsnag-and-split-events-integration/) 
+
 More documentation to follow...
 
  * Create a SPLIT_API_TOKEN file and create a server-side API token (for use sending events with REST API).  Do not use an Admin API token.
